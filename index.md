@@ -16,6 +16,8 @@ Follow the Rubin Science Pipelines installation instructions:
 
 https://pipelines.lsst.io/install/index.html
 
+A typical installation requires approximately 10 GB of available disk space.
+
 When reaching Step 4, repeat the procedure using:
 
 lsst_sitcom
