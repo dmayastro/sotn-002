@@ -16,13 +16,21 @@ Follow the Rubin Science Pipelines installation instructions:
 
 https://pipelines.lsst.io/install/index.html
 
-When reaching Step 4, repeat the procedure replacing:
+When reaching Step 4, repeat the procedure using:
+
+lsst_sitcom
+
+instead of:
 
 lsst_distrib
 
-with:
+Later, when configuring the environment, use:
 
-lsst_sitcom
+setup summit_utils
+
+instead of:
+
+setup lsst_distrib
 
 After the installation is complete, install the EFD client:
 
