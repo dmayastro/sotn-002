@@ -14,7 +14,7 @@ This note provides a minimal example of how to access EFD telemetry from a local
 
 Follow the Rubin Science Pipelines installation instructions:
 
-https://pipelines.lsst.io/install/index.html
+https://pipelines.lsst.io/install/lsstinstall.html
 
 A typical installation requires approximately 10 GB of available disk space.
 
